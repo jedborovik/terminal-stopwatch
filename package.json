@@ -1,0 +1,24 @@
+{
+  "name": "terminal-stopwatch",
+  "version": "0.0.0",
+  "description": "Live updating stopwatch for the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jedborovik/terminal-stopwatch.git"
+  },
+  "keywords": [
+    "timer",
+    "stopwatch",
+    "terminal"
+  ],
+  "author": "Jed Borovik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedborovik/terminal-stopwatch/issues"
+  },
+  "homepage": "https://github.com/jedborovik/terminal-stopwatch"
+}
